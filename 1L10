@@ -3,16 +3,6 @@
 </head>
 
 <body>
-
-<p style="font-style:italic;" >
-this italic style 
-ssssssss</p>
-
-
-<p style="font-family:georgia,serif;">
-text in georgia garamond,or the default serif font
-</p>
-
 <p style="front-weight:bold;"> bold text </p>
 <p style="font-weight:bolder;">small size</p>
 <p style="font-weight:500;">This font is 500 weight</p>
