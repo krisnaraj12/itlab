@@ -21,13 +21,8 @@ text in georgia garamond,or the default serif font
 <p style="word-spacing:5px;">ehh mehh yak</p>
 <p style="word-spacing:10px;">hit me boomm!!</p>
 <p style="text-transform:capitalize;">Doing nothing is hard, you never know when you're done.</p>
-<p style="text-transform"></p>
+<p style="text-transform"> </p>
 <p style="text-shadow:4px 4px 10px blue;"> Always remember that you're unique. Just like everyone else.</p>
-
-
-<img style="border:0px;" src="/home/student/2016cse909/image.jpeg">
-<img style="border:1px solid red; width;100%;" src="/home/student/2016cse909/image.jpeg">
-
 
 
 
